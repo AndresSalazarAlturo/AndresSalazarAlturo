@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndresSalazarAlturo
-- 👀 I’m interested in artificial intelligence 
-- 🌱 I’m currently learning machine learning and software development
-- 💞️ I’m looking to collaborate on web development and ML projects
+- 👀 I’m interested in artificial intelligence
+- 🌱 I’m currently working as Campus Coordinator at Kiwibot 😎
+- 💞️ I’m looking to collaborate on web development, data and ML projects
 - 📫 How to reach me andressalazar.alturo@gmail.com
 
 <!---
