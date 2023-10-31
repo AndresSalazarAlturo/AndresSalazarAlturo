@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AndresSalazarAlturo
 - 👀 I’m interested in artificial intelligence and data science 🤓
+- Master's student at University of Sussex
 - 🌱 Experience as Campus Coordinator at Kiwibot 😎
 - 💞️ I’m looking to collaborate on data and ML projects
 - 📫 How to reach me andressalazar.alturo@gmail.com
