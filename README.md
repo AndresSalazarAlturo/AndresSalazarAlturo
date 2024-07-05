@@ -6,6 +6,7 @@
 - 📫 How to reach me andressalazar.alturo@gmail.com
 
 
+
 ## About me:
 
 Master’s student at the University of Sussex specializing in AI and adaptive systems. Skilled electronic engineer with expertise in machine learning algorithms and data processing. Seeking opportunities in machine learning to apply strong technical and analytical skills.
@@ -44,7 +45,7 @@ Master’s student at the University of Sussex specializing in AI and adaptive s
 
 | Git | Pytest | VirtualBox |
 |-----|--------|------------|
-| ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | ![Pytest](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg) | ![VirtualBox](https://camo.githubusercontent.com/d152061e1371a762bf45b303e9319845858d37c095a64850e804a05bdd3d9020/68747470733a2f2f62616e6e6572322e636c65616e706e672e636f6d2f32303139303530312f7876742f6b697373706e672d636f6d70757465722d69636f6e732d7669727475616c626f782d706f727461626c652d6e6574776f726b2d677261706869632d7669727475616c626f782d69636f6e2d6f662d6c696e652d7374796c652d617661696c61626c652d696e2d7376672d35636361323437663733663965332e363131323732313131353536373531343837343735312e6a7067) |
+| ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | ![Pytest](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg) | !<img src="https://camo.githubusercontent.com/d152061e1371a762bf45b303e9319845858d37c095a64850e804a05bdd3d9020/68747470733a2f2f62616e6e6572322e636c65616e706e672e636f6d2f32303139303530312f7876742f6b697373706e672d636f6d70757465722d69636f6e732d7669727475616c626f782d706f727461626c652d6e6574776f726b2d677261706869632d7669727475616c626f782d69636f6e2d6f662d6c696e652d7374796c652d617661696c61626c652d696e2d7376672d35636361323437663733663965332e363131323732313131353536373531343837343735312e6a7067" width="55" height="55"> |
 
 <!---
 AndresSalazarAlturo/AndresSalazarAlturo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
