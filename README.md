@@ -6,7 +6,7 @@
 
 Hi! Here is Andres Salazar ✌️
 
-Master’s student at the University of Sussex specializing in AI and adaptive systems. Skilled electronic engineer with expertise in machine learning algorithms and data processing. Seeking opportunities to apply my strong technical and analytical skills in machine learning. For a detailed view of my projects and experiences, please visit my CV here: [Link to CV]([https://github.com/AndresSalazarAlturo/Neuroevolution-for-autonomous-robot-navigation-with-novelty-search-in-webots](https://github.com/AndresSalazarAlturo/Andres_Salazar_CV/blob/main/CV_Andres_Salazar.pdf))
+Master’s student at the University of Sussex specializing in AI and adaptive systems. Skilled electronic engineer with expertise in machine learning algorithms and data processing. Seeking opportunities to apply my strong technical and analytical skills in machine learning. For a detailed view of my projects and experiences, please visit my CV here: [Link to CV](https://github.com/AndresSalazarAlturo/Andres_Salazar_CV/blob/main/CV_Andres_Salazar.pdf)
 
 ## Social media:
 
