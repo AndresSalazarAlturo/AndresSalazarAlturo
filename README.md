@@ -6,7 +6,7 @@
 
 Hi! Here is Andres Salazar ✌️
 
-Master’s student at the University of Sussex specializing in AI and adaptive systems. Skilled electronic engineer with expertise in machine learning algorithms and data processing. Seeking opportunities to apply my strong technical and analytical skills in machine learning. For a detailed view of my projects and experiences, please visit my CV here: [Link to CV](https://github.com/AndresSalazarAlturo/Andres_Salazar_CV/blob/main/CV_Andres_Salazar.pdf)
+AI and electronics engineer with a master’s degree in AI and adaptive systems at the University of Sussex. Skilled electronic engineer with expertise in machine learning algorithms and data processing. Seeking opportunities to apply my strong technical and analytical skills in machine learning and software development. For a detailed view of my projects and experiences, please visit my CV here: [Link to CV](https://github.com/AndresSalazarAlturo/Andres_Salazar_CV/blob/main/CV_Andres_Salazar.pdf)
 
 ## Social media:
 
@@ -40,9 +40,9 @@ Master’s student at the University of Sussex specializing in AI and adaptive s
 
 ## Environments, others:
 
-| Git | Pytest | VirtualBox | VS Code | Latex |
-|-----|--------|------------|---------|-------|
-| ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | ![Pytest](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg) | <img src="https://camo.githubusercontent.com/d152061e1371a762bf45b303e9319845858d37c095a64850e804a05bdd3d9020/68747470733a2f2f62616e6e6572322e636c65616e706e672e636f6d2f32303139303530312f7876742f6b697373706e672d636f6d70757465722d69636f6e732d7669727475616c626f782d706f727461626c652d6e6574776f726b2d677261706869632d7669727475616c626f782d69636f6e2d6f662d6c696e652d7374796c652d617661696c61626c652d696e2d7376672d35636361323437663733663965332e363131323732313131353536373531343837343735312e6a7067" width="55" height="55"> | ![VS Code](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg) |![Latex](https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg)
+| Git | Pytest | VirtualBox | VS Code | Latex | Google Cloud |
+|-----|--------|------------|---------|-------|--------------|
+| ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | ![Pytest](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg) | <img src="https://camo.githubusercontent.com/d152061e1371a762bf45b303e9319845858d37c095a64850e804a05bdd3d9020/68747470733a2f2f62616e6e6572322e636c65616e706e672e636f6d2f32303139303530312f7876742f6b697373706e672d636f6d70757465722d69636f6e732d7669727475616c626f782d706f727461626c652d6e6574776f726b2d677261706869632d7669727475616c626f782d69636f6e2d6f662d6c696e652d7374796c652d617661696c61626c652d696e2d7376672d35636361323437663733663965332e363131323732313131353536373531343837343735312e6a7067" width="55" height="55"> | ![VS Code](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg) |![Latex](https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg) | ![Google Cloud]([https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg](https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg))
 
 ## OS:
 
